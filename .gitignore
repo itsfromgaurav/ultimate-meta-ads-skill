@@ -1,0 +1,12 @@
+# Never publish the copyrighted source material
+*.epub
+extracted/
+chapters/
+knowledge-base/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
